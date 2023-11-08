@@ -7,7 +7,7 @@ import (
 	"flag"
 	"log"
 
-	"PetStore/internal/provider"
+	"github.com/KICKdesigns/terraform-provider-PetStore/internal/provider"
 	"github.com/hashicorp/terraform-plugin-framework/providerserver"
 )
 

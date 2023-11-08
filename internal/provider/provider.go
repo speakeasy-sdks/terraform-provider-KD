@@ -3,8 +3,8 @@
 package provider
 
 import (
-	"PetStore/internal/sdk"
 	"context"
+	"github.com/KICKdesigns/terraform-provider-PetStore/internal/sdk"
 
 	"github.com/hashicorp/terraform-plugin-framework/datasource"
 	"github.com/hashicorp/terraform-plugin-framework/provider"

@@ -3,8 +3,8 @@
 package float64planmodifier
 
 import (
-	"PetStore/internal/planmodifiers/utils"
 	"context"
+	"github.com/KICKdesigns/terraform-provider-PetStore/internal/planmodifiers/utils"
 
 	"github.com/hashicorp/terraform-plugin-framework/resource/schema/planmodifier"
 )

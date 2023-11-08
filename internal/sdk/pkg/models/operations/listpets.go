@@ -3,7 +3,7 @@
 package operations
 
 import (
-	"PetStore/internal/sdk/pkg/models/shared"
+	"github.com/KICKdesigns/terraform-provider-PetStore/internal/sdk/pkg/models/shared"
 	"net/http"
 )
 

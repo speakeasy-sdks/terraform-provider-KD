@@ -1,4 +1,4 @@
-module PetStore
+module github.com/KICKdesigns/terraform-provider-PetStore
 
 go 1.18
 

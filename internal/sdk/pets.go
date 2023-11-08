@@ -3,13 +3,13 @@
 package sdk
 
 import (
-	"PetStore/internal/sdk/pkg/models/operations"
-	"PetStore/internal/sdk/pkg/models/sdkerrors"
-	"PetStore/internal/sdk/pkg/models/shared"
-	"PetStore/internal/sdk/pkg/utils"
 	"bytes"
 	"context"
 	"fmt"
+	"github.com/KICKdesigns/terraform-provider-PetStore/internal/sdk/pkg/models/operations"
+	"github.com/KICKdesigns/terraform-provider-PetStore/internal/sdk/pkg/models/sdkerrors"
+	"github.com/KICKdesigns/terraform-provider-PetStore/internal/sdk/pkg/models/shared"
+	"github.com/KICKdesigns/terraform-provider-PetStore/internal/sdk/pkg/utils"
 	"io"
 	"net/http"
 	"strings"
