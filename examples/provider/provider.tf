@@ -2,7 +2,7 @@ terraform {
   required_providers {
     PetStore = {
       source  = "KICKdesigns/PetStore"
-      version = "0.5.0"
+      version = "0.5.1"
     }
   }
 }
