@@ -1,12 +1,12 @@
 lockVersion: 2.0.0
 id: affeee80-077a-4cea-b1cb-a778d401a1a8
 management:
-  docChecksum: 2516596125ef223fbbef6c434d22eaac
+  docChecksum: 1bdb7a6f8bf3995d4b40475228403253
   docVersion: 1.0.0
   speakeasyVersion: internal
-  generationVersion: 2.230.1
-  releaseVersion: 0.8.1
-  configChecksum: 8bafb382bf68480871bd45e1cb2599d5
+  generationVersion: 2.230.3
+  releaseVersion: 0.8.2
+  configChecksum: 35beba0c414e37d3f692a2549d518c42
   repoURL: https://github.com/speakeasy-sdks/terraform-provider-KD.git
   repoSubDirectory: .
   published: true
