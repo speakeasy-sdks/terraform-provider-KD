@@ -4,15 +4,15 @@ management:
   docChecksum: 1bdb7a6f8bf3995d4b40475228403253
   docVersion: 1.0.0
   speakeasyVersion: internal
-  generationVersion: 2.230.3
-  releaseVersion: 0.8.2
-  configChecksum: 35beba0c414e37d3f692a2549d518c42
+  generationVersion: 2.233.2
+  releaseVersion: 0.8.3
+  configChecksum: 0cd0f5e5383a284f45a477e9618e222d
   repoURL: https://github.com/speakeasy-sdks/terraform-provider-KD.git
   repoSubDirectory: .
   published: true
 features:
   terraform:
-    core: 3.8.1
+    core: 3.8.2
     globalServerURLs: 2.82.1
 generatedFiles:
   - internal/sdk/pets.go
